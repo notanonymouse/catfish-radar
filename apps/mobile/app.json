@@ -17,9 +17,9 @@
         "monochromeImage": "./assets/android-icon-monochrome.png"
       }
     },
-    "web": {
+  "web": {
       "favicon": "./assets/favicon.png",
-      "output": "static"
+      "output": "spa"
     }
   }
 }
